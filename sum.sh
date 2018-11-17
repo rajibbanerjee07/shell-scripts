@@ -7,4 +7,3 @@ for var in "$@"
   fi
  done
 echo $sum
-echo "Hello"
